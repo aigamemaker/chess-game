@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AI vs Human Chess Game</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="chessboard">
+      <!-- squares representing each position on the board -->
+    </div>
+    <div class="game-controls">
+      <button id="new-game">New Game</button>
+      <button id="undo">Undo</button>
+      <div id="status"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
